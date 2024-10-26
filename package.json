@@ -3,6 +3,7 @@
   "version": "0.9.1",
   "description": "React Quiz Component",
   "main": "dist/index.js",
+  "types": "lib/react-quiz-component.d.ts",
   "module": "dist/index.es.js",
   "scripts": {
     "dev": "webpack-dev-server --mode development",
